@@ -40,6 +40,7 @@ python crawler_script.py -t path/to/your/target_domains.csv
 - `-p`, `--thread_pool`: Set the number of crawling threads to use (default is 4).
 
 ## Contributing
+Maintainer: Julian Salians, julian.salinas121@gmail.com
 
 Your contributions are welcome! Please feel free to submit issues or pull requests with improvements or bug fixes.
 
