@@ -1,6 +1,6 @@
 Ads.txt Crawler
 
-## Overview
+##Overview
 
 This project provides a streamlined Python script for crawling and verifying ads.txt files from specified domains. Designed with simplicity in mind, it bypasses the complexity and database dependencies of traditional crawlers, making it an ideal tool for quick checks, testing domain accessibility, and ensuring that DSPs (Demand Side Platforms) and SSPs (Supply Side Platforms) can crawl ads.txt files without firewall blocks from common data center IPs, such as AWS.
 
